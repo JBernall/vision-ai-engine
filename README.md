@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="aivisionGIF.gif" width="300" />
+</div>
 # 🔭 Vision AI: Contextual Augmented Reality Engine
 
 **Vision AI** is a real-time geolocation engine that bridges the physical and digital worlds. It uses a custom "Field-of-View" algorithm to identify what a user is looking at and enriches that data with Generative AI (GPT-4o-mini) to act as an expert local guide.
